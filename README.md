@@ -12,7 +12,7 @@ This project was developed using data provided through the NetMob 2026 Data Chal
 
 This repository currently contains only materials and methodology that do not disclose the underlying NetMob dataset. Additional code, documentation, and reproducible examples may be released following the applicable publication and data-use requirements of the NetMob 2026 Data Challenge.
 
-Without the NetMob dataset, none of the `cluster_analysis` code will run properly. However, the NetMob dataset itself cannot be redistributed through this repository. Researchers interested in accessing the original data should request access directly through the NetMob Data Challenge organizers.
+Without the NetMob dataset, none of the `cluster_analysis` code will run properly. However, the NetMob dataset itself cannot be redistributed through this repository. The repository is meant to serve as a display of the programmed congestion detection methodology. Researchers interested in accessing the original data should request access directly through the NetMob Data Challenge organizers.
 
 ### Repo Outline
 1. `cluster_analysis` - Contains the code and methodology for the GPS Congestion Detection Framework
